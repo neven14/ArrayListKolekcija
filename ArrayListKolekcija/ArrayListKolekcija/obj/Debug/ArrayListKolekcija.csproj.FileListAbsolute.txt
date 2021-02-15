@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\bin\Debug\ArrayListKolekcija.exe.config
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\bin\Debug\ArrayListKolekcija.exe
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\bin\Debug\ArrayListKolekcija.pdb
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\obj\Debug\ArrayListKolekcija.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\obj\Debug\ArrayListKolekcija.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\obj\Debug\ArrayListKolekcija.exe
+C:\Users\Gordana\source\repos\ArrayListKolekcija\ArrayListKolekcija\obj\Debug\ArrayListKolekcija.pdb
